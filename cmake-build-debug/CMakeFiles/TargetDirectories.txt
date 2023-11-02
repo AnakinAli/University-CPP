@@ -1,0 +1,3 @@
+/home/anakin/Desktop/University/Kozov-Tasks/3.11/cmake-build-debug/CMakeFiles/3_11.dir
+/home/anakin/Desktop/University/Kozov-Tasks/3.11/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anakin/Desktop/University/Kozov-Tasks/3.11/cmake-build-debug/CMakeFiles/rebuild_cache.dir
